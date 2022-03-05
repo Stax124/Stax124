@@ -69,7 +69,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <p align="left">
 <a href="https://github.com/Stax124">
-  <img height="160em" src="https://github-readme-stats-git-master.manojuppala.vercel.app/api?username=Stax124&&show_icons=true&theme=dracula" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Stax124&&show_icons=true&theme=dracula" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stax124&layout=compact&theme=dracula" />
 </a>
 </p>
@@ -79,3 +79,13 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stax124&theme=dracula" />
 </a>
 </p>
+
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Stax124" alt="Stax124" /></p>
+</details>
+
+<details>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Stax124&margin-w=5" alt="Stax124" /></a> </p>
+</details>
