@@ -3,14 +3,14 @@
 ### 📌Pinned Repositories
 
 <p align="left">
+<a href="https://github.com/Stax124/MoltenCore">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=MoltenCore&theme=dracula" />
+</a>
 <a href="https://github.com/Stax124/PyShell">
   <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=PyShell&theme=dracula" />
 </a>
 <a href="https://github.com/Stax124/Updater">
   <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=Updater&theme=dracula" />
-</a>
-<a href="https://github.com/Stax124/Trinity-V2">
-  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=Trinity-V2&theme=dracula" />
 </a>
 <a href="https://github.com/Stax124/Void-Terminal">
   <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=Void-Terminal&theme=dracula" />
