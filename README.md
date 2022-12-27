@@ -18,8 +18,8 @@
 <a href="https://github.com/Stax124/SteamSharedLibraryTweaks ">
   <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=SteamSharedLibraryTweaks&theme=dracula" />
 </a>
-<a href="https://github.com/Stax124/MCAlertBot">
-  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=MCAlertBot&theme=dracula" />
+<a href="https://github.com/Stax124/Trinity-V2">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=Trinity-V2&theme=dracula" />
 </a>
 </p>
 
