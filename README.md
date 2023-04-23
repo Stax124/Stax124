@@ -1,5 +1,7 @@
 ## Hi there, I'm Stax124
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O6KO1K6)
+
 ### 📌Pinned Repositories
 
 <p align="left">
