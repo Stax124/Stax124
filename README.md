@@ -9,8 +9,8 @@
 <a href="https://github.com/Stax124/MoltenCore">
   <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=MoltenCore&theme=dracula" />
 </a>
- <a href="https://github.com/Stax124/voltaML-fast-stable-diffusion">
-  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=voltaML-fast-stable-diffusion&theme=dracula" />
+ <a href="https://github.com/VoltaML/voltaML-fast-stable-diffusion">
+  <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=VoltaML&repo=voltaML-fast-stable-diffusion&theme=dracula" />
 </a>
 <a href="https://github.com/Stax124/PyShell">
   <img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=Stax124&repo=PyShell&theme=dracula" />
